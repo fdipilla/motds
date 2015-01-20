@@ -4,10 +4,11 @@ motds
 Just a bunch of my motds
 
 
-### Debian
+##### Debian
 
 ![ScreenShot](debian/motd-debian_1.png)
 
 
-### Batman
+##### Batman
 ![ScreenShot](batman/motd-batman.png)
+
