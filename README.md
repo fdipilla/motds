@@ -4,6 +4,6 @@ motds
 Just a bunch of my motds
 
 
-### Debina
+##### Debian
 
 ![ScreenShot](debian/motd-debian_1.png)
