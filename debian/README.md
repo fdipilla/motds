@@ -1,1 +1,1 @@
-![ScreenShot](/motd-debian_1.png)
+![ScreenShot](motd-debian_1.png)
