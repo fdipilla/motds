@@ -12,3 +12,6 @@ Just a bunch of my motds
 ##### Batman
 ![ScreenShot](batman/motd-batman.png)
 
+
+##### Batman
+![ScreenShot](gondor/motd-gondor.png)
