@@ -18,4 +18,4 @@ Just a bunch of my motds
 
 
 ##### AT-AT
-![ScreenShot](atat/atat.png)
+![ScreenShot](at-at/atat.png)
